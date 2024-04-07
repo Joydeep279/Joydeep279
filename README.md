@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joydeep Nath and I'm a Student, from Silchar,Assam</h2>
+<h2 align="left">Hi 👋! My name is Joydeep Nath and I'm a Student, from Silchar ,Assam</h2>
 
 ###
 
