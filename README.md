@@ -32,6 +32,6 @@
  </br>
 </br>
  
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/output/github-contribution-grid-snake.svg">
  
 </div>
