@@ -34,6 +34,9 @@
 </div>
  
  ## Github Graph
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/output/github-contribution-grid-snake-dark.svg">
+ <div align="center">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/output/github-contribution-grid-snake-dark.svg">
  
+  </div>
+
 
