@@ -31,7 +31,7 @@
  </br>
 </br>
 </div>
-<img align="center" src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/output/github-contribution-grid-snake-dark.svg"/>
+<img align="center" src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/8f46d0d2ab2e28566e86ef0d562906c3610f8559/github-contribution-grid-snake-dark.svg"/>
  
 
 
