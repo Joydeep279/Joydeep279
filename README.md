@@ -31,7 +31,20 @@
  </br>
 </br>
 </div>
-<img align="center" src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/8f46d0d2ab2e28566e86ef0d562906c3610f8559/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Joydeep279/Joydeep279/8f46d0d2ab2e28566e86ef0d562906c3610f8559/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Joydeep279/Joydeep279/8f46d0d2ab2e28566e86ef0d562906c3610f8559/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Joydeep279/Joydeep279/8f46d0d2ab2e28566e86ef0d562906c3610f8559/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
  
 
 
